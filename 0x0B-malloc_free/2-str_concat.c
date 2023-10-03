@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * str_concat - concatenates teo strings
+ * str_concat - concatenates two strings
  * @s1: input one
  * @s2: input two
  *
